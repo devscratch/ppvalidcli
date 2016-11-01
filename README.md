@@ -1,2 +1,2 @@
-# ppvalidcli
-Simple PHP CLI Script to check if email has been registered on paypal
+# Paypal CLI Valid
+Run command `php paypal.php help` to get more help!
